@@ -1,0 +1,12 @@
+Salted Crisps::1.2::7
+Highlands Water::0.5::23
+Haribo::1::10
+Coke::1.2::22
+Redwood Tree::320::44
+Shark::1::50
+Grenola Bar::0.7::8
+Mini Cooper::3500::0
+Cream Egg::2.5::0
+Really Big Apple::9.99::0
+Spring Onions::0.99::3
+Bad Coffee::3.4::991
